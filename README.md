@@ -1,2 +1,2 @@
-# test_public
-test_public
+# Triton Puzzle
+Self note for study
